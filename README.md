@@ -12,10 +12,7 @@ Here is animation going from star chart to wiki vs. magnitude.
 
 ![wiki vs map](stars2.gif)
 
-
-## Jupiter notebook
-
-The HTML conversion of the notebook can be found [here](http://users.ox.ac.uk/~bioc1451/wikistars.html).
+This is fun/naff, but not informative. The plotly interactive version can be found on the HTML conversion of the notebook, which can be found [here](http://users.ox.ac.uk/~bioc1451/wikistars.html) —right at the bottom of the page.
 
 ## Series
 
